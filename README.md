@@ -1,4 +1,4 @@
-<img src="https://github.com/bycnfz/weather2k/logo.pdf" alt="Logo" style="zoom:120%;" />
+<img src="https://github.com/bycnfz/weather2k/blob/main/logo.pdf" alt="Logo" style="zoom:120%;" />
 
 # Weather2K: A Multivariate Spatio-Temporal Benchmark Dataset for Meteorological Forecasting Based on Real-Time Observation Data from Ground Weather Stations
 
