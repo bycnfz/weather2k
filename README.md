@@ -9,7 +9,7 @@ https://aistats.org/aistats2023/accepted.html
 
 
 ## Download the dataset
-（1）Baidu Netdisk : https://pan.baidu.com/s/1rAOjB20I2kwqtsfDF5j2JQ   提取码: 5uf1
+（1）Baidu Netdisk : https://pan.baidu.com/s/1rAOjB20I2kwqtsfDF5j2JQ   code: 5uf1
 
 （2）Google Drive : https://drive.google.com/drive/folders/1rTabWIuAarDfSkUROK2rzEYJEqP338UM?usp=share_link
 
