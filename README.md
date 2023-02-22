@@ -2,7 +2,7 @@
 
 # Weather2K: A Multivariate Spatio-Temporal Benchmark Dataset for Meteorological Forecasting Based on Real-Time Observation Data from Ground Weather Stations
 
-【Accepted】by **Artificial Intelligence and Statistics 2023**
+【Accepted】by **Proceedings of the 26th International Conference on Artificial Intelligence and Statistics (AISTATS) 2023**
 
 https://aistats.org/aistats2023/accepted.html
 
