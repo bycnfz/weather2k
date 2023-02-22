@@ -61,9 +61,9 @@ idx2stat.txt shows the correspondence bewteen the numpy index and the original s
 |       9        | Water vapor pressure                      | wvp                    |   hpa    |
 | 10/11/12/13/14 | Precipitation in 1h / 3h / 6h / 12h / 24h | p1 / p2 / p3 / p4 / p5 |   (mm)   |
 |       15       | Wind direction                            | wd                     |   (°)    |
-|       16       | Wind speed                                | ws                     | (ms*−*1) |
+|       16       | Wind speed                                | ws                     | (ms<sup>-1</sup>) |
 |       17       | Maximum wind direction                    | mwd                    |   (°)    |
-|       18       | Maximum wind speed                        | mws                    | (ms*−*1) |
+|       18       | Maximum wind speed                        | mws                    | (ms<sup>-1</sup>) |
 |       19       | Land surface temperature                  | st                     |   (°C)   |
 |     20/21      | Horizontal visibility in 1 min / 10 min   | hv1 / hv2              |   (m)    |
 |       22       | Vertical visibility                       | vv                     |   (m)    |
