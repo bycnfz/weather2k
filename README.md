@@ -72,6 +72,6 @@ idx2stat.txt shows the correspondence bewteen the numpy index and the original s
 ## Cite
 If you are using this dataset please cite 
 
-> xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+> Xun Zhu, Yutong Xiong, Ming Wu, Gaozhen Nie, Bin Zhang, Ziheng Yang.
 > Weather2K: A Multivariate Spatio-Temporal Benchmark Dataset for Meteorological Forecasting Based on Real-Time Observation Data from Ground Weather Stations.
-> arXiv: xxxxxxxxxxxxxxxxxxxx
+> arXiv:[2302.10493](https://arxiv.org/abs/2302.10493)
