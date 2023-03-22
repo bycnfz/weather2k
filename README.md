@@ -9,9 +9,11 @@ https://aistats.org/aistats2023/accepted.html
 
 
 ## Download the dataset
-（1）Baidu Netdisk : https://pan.baidu.com/s/1rAOjB20I2kwqtsfDF5j2JQ   code: 5uf1
+（1）Baidu Netdisk :  https://pan.baidu.com/s/1ruKY9-FnH8dEGkJwNj4GrA   code: lr8p
 
 （2）Google Drive : https://drive.google.com/drive/folders/1rTabWIuAarDfSkUROK2rzEYJEqP338UM?usp=share_link
+
+if you have any quesetions about the data download, please contact wuming@bupt.edu.cn
 
 The data is hosted in the upper links with the following directory structure :
 
