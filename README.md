@@ -6,6 +6,8 @@
 
 https://aistats.org/aistats2023/accepted.html
 
+This repository provides the dataset used in the paper. We hope that the release of Weather2K can provide a foundation for accelerated research in this area and foster collaboration between atmospheric and data scientists.
+
 
 
 ## Download the dataset
@@ -13,7 +15,7 @@ https://aistats.org/aistats2023/accepted.html
 
 （2）Google Drive : https://drive.google.com/drive/folders/1rTabWIuAarDfSkUROK2rzEYJEqP338UM?usp=share_link
 
-if you have any quesetions about the data download, please contact wuming@bupt.edu.cn
+If you have any quesetions about the data download, please contact wuming@bupt.edu.cn
 
 The data is hosted in the upper links with the following directory structure :
 
@@ -72,7 +74,6 @@ idx2stat.txt shows the correspondence bewteen the numpy index and the original s
 
 
 ## Cite
-If you are using this dataset please cite 
 
-> Zhu, Xun, Yutong Xiong, Ming Wu, Gaozhen Nie, Bin Zhang and Ziheng Yang. “Weather2K: A Multivariate Spatio-Temporal Benchmark Dataset for Meteorological Forecasting Based on Real-Time Observation Data from Ground Weather Stations.” (2023).
-> arXiv:[2302.10493](https://arxiv.org/abs/2302.10493)
+If you are using this dataset please cite 
+> Zhu X, Xiong Y, Wu M, et al. Weather2K: A Multivariate Spatio-Temporal Benchmark Dataset for Meteorological Forecasting Based on Real-Time Observation Data from Ground Weather Stations[C]//International Conference on Artificial Intelligence and Statistics. PMLR, 2023: 2704-2722.
