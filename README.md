@@ -11,9 +11,8 @@ This repository provides the dataset used in the paper. We hope that the release
 
 
 ## Download the dataset
-（1）Baidu Netdisk :  https://pan.baidu.com/s/1ruKY9-FnH8dEGkJwNj4GrA   code: lr8p
 
-（2）Google Drive : https://drive.google.com/drive/folders/1rTabWIuAarDfSkUROK2rzEYJEqP338UM?usp=share_link
+Google Drive : https://drive.google.com/drive/folders/1rTabWIuAarDfSkUROK2rzEYJEqP338UM?usp=share_link
 
 If you have any quesetions about the data download, please contact wuming@bupt.edu.cn
 
